@@ -1,0 +1,28 @@
+{
+  "name": "reactBootcamp01",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "react-dom": "^18.2.0",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.0",
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "serve": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iprajwali15/reactBootcamp01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iprajwali15/reactBootcamp01/issues"
+  },
+  "homepage": "https://github.com/iprajwali15/reactBootcamp01#readme"
+}
